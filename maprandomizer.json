@@ -2,7 +2,7 @@
     "eagleBots": 100,
     "ravenBots": 100,
     "blacklistedMaps": [
-        "M03_Citadel"
+        "" --put your unwanted maps inside the ""
     ],
     "listMapsKey": "Minus"
 }
