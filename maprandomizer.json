@@ -2,7 +2,9 @@
     "eagleBots": 100,
     "ravenBots": 100,
     "blacklistedMaps": [
-        "" --put your unwanted maps inside the ""
+        ""
     ],
     "listMapsKey": "Minus"
 }
+
+--put your unwanted maps inside the ""
